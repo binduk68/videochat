@@ -1,0 +1,14 @@
+{
+    "name": "videochat-application",
+    "version": "1.0.0",
+    "description": "VideoChat Application",
+    "author": "Bindu Kumari",
+    "scripts": {
+        "start": "node chatserver.js"
+    },
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "express": "^4.15.3",
+        "peerjs": "~0.3.14"
+    }
+}

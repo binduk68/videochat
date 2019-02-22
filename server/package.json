@@ -1,0 +1,11 @@
+{
+    "name": "peerserver",
+    "version": "0.0.1",
+    "author": "Bindu Kumari",
+    "scripts": {
+        "start": "node peerserver.js"
+    },
+    "dependencies": {
+        "peer": "0.2.10"
+    }
+}
